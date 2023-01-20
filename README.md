@@ -8,9 +8,7 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/86972667/213781842-24ff5181-9499-43b8-8a3d-b9e5f39f9117.png" alt="imagem">
-<img src="https://user-images.githubusercontent.com/86972667/213781938-3cdf27cb-e030-4bae-9706-c99efaa20126.png" alt="imagem">
-<img src="https://user-images.githubusercontent.com/86972667/213782133-c2ab7da2-2f7c-40a0-94a2-62f52ac606dd.png" alt="imagem">
+<img src="https://user-images.githubusercontent.com/86972667/213781842-24ff5181-9499-43b8-8a3d-b9e5f39f9117.png" alt="imagem"> <img src="https://user-images.githubusercontent.com/86972667/213781938-3cdf27cb-e030-4bae-9706-c99efaa20126.png" alt="imagem"> <img src="https://user-images.githubusercontent.com/86972667/213782133-c2ab7da2-2f7c-40a0-94a2-62f52ac606dd.png" alt="imagem">
 
 ##
 
