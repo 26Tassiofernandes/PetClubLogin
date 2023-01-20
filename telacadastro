@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Petclub/cadastro</title>
+    <link rel="stylesheet" href="petcadastrar.css">
+    <link rel="shortcut icon" href="icopata.ico" type="image/x-icon">
+</head>
+<body>
+
+    <section>
+
+        <div>
+
+            <img src="imagem pet club.png" id="imagempet">
+
+        </div>
+
+        <div>
+
+            <br>
+
+            <img src="icouser.ico" id="icouser">
+            <input type="text" name="nome" id="nome" placeholder=" Nome"> <br><br>
+            <img src="icoemail.ico" id="emailico">
+            <input type="email" name="email" id="email" placeholder="  E-mail"> <br><br>
+            <img src="padlock.ico" alt="padlock" id="padlock">
+            <input type="password" name="senha" id="senha" placeholder="  Senha">
+
+        </div>
+
+        <div>
+
+            <br>
+
+            <p><input type="button" value="Cadastrar-se" id="cadastrar"></p>
+
+        </div>
+
+        <div id="msg">
+
+            <p><strong>Ou cadastre com</strong></p>
+
+        </div>
+
+        <div>
+
+            <img src="imggoogle_32.png" id="imggoogle"> <img src="faceimg_32.png" id="faceimg">
+
+        </div>
+
+        <div id="msg">
+
+            <p>Já possui uma conta? <strong><ins><a href="telaentrar.html" id="linklogin">Faça login</a></ins></strong></p>
+
+        </div>
+
+    </section>
+    
+</body>
+</html>
